@@ -114,7 +114,7 @@ Save models as .pkl files
 ---
 
 ## ✅ 📦 Prerequisites
--------------
+---
 Before running this project, ensure you have the following installed:
 Python 3.7 or higher
 Jupyter Notebook or any Python IDE
@@ -123,9 +123,10 @@ pip (Python package installer)
 ---
 
 ## ✅ 📌 Conclusion
----------------
+---
 This project demonstrates how machine learning algorithms can be used to detect cancer using a dataset of diagnostic features. By comparing different models such as Random Forest, SVC, and XGBoost, we were able to evaluate and visualize their performance through accuracy scores and confusion matrices.
-## ✅ 📌 Key outcomes
+## ✅ 📌 Key outcome
+---
 Successfully trained and evaluated multiple ML models.
 Achieved strong prediction performance (refer to accuracy_comparison.png).
 Visualized model results using confusion matrices for deeper insights.
