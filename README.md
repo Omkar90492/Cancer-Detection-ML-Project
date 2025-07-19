@@ -88,6 +88,20 @@ Save models as .pkl files
 
 ---
 
+## 📈 Accuracy Chart
+![Accuracy](images/accuracy_comparison.png)
+
+## 🧪 Confusion Matrix - XGBoost
+![XGBoost](images/confusion_matrix_xgboost.png)
+
+## 🌲 Confusion Matrix - Random Forest
+![RandomForest](images/confusion_matrix_randomforest.png)
+
+## 💻 Confusion Matrix - SVC
+![SVC](images/confusion_matrix_svc.png)
+
+---
+
 🚀 Quick Tips
 -------------
 - ✅ Use a virtual environment to avoid conflicts
