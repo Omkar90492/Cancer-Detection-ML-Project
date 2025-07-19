@@ -1,4 +1,4 @@
-# 🧬 Cancer Detection ML
+# 🧬 Cancer Detection Using ML
 
 A machine-learning project that predicts whether a tumor is **benign** or **malignant** using clinical measurement features.
 
@@ -128,7 +128,7 @@ This project demonstrates how machine learning algorithms can be used to detect 
 
 ---
 
-## ✅ 📌 Key outcome
+## ✅ 📌 Key outcomes
 
 Successfully trained and evaluated multiple ML models.
 Achieved strong prediction performance (refer to accuracy_comparison.png).
