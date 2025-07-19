@@ -85,3 +85,12 @@ Train RandomForest, SVC, and XGBoost models
 Display classification reports and confusion matrices
 
 Save models as .pkl files
+
+---
+
+🚀 Quick Tips
+-------------
+- ✅ Use a virtual environment to avoid conflicts
+- 📌 Run the notebook first if you want step-by-step exploration
+- 🧠 Modify hyperparameters in `cancer_detection.py` for better accuracy
+- 📈 Logs and results are saved in the `outputs/` folder
