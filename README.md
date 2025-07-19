@@ -20,10 +20,6 @@ This repository includes:
 
 ---
 
----
-
-### 📁 **Project Structure**
-
 📁 Project Structure
 -------------------
 - cancer_detection.py — Main script
