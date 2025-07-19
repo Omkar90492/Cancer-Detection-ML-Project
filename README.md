@@ -44,7 +44,7 @@ Follow these steps to set up and run the project locally:
 Step 1: Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
----
+
 Step 2: Install the required dependencies
 pip install -r requirements.txt
 ---
