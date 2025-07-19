@@ -20,5 +20,24 @@ This repository includes:
 
 ---
 
-## 📁 Structure
+🛠 Tech Stack
+Python 3.7+ – Programming language
+
+Pandas – Data loading and preprocessing
+
+NumPy – Numerical operations
+
+Matplotlib – Basic data visualization
+
+Seaborn – Statistical plotting (optional)
+
+Scikit-learn – Machine learning models and evaluation
+
+RandomForest, SVC, model evaluation, train-test split
+
+XGBoost – Gradient boosting classifier
+
+Imbalanced-learn (SMOTE) – Class imbalance handling
+
+Pickle – Saving and loading trained models
 
