@@ -20,6 +20,21 @@ This repository includes:
 
 ---
 
+---
+
+### 📁 **Project Structure**
+
+📁 Project Structure
+-------------------
+- cancer_detection.py — Main script
+- requirements.txt — Dependencies
+- /models — Trained models
+- /data — Breast Cancer dataset
+- /notebooks — Jupyter notebook experiments
+
+  ---
+
+
 ## 🧠 Tech Stack
 
 - **Python 3.7+** – Programming language  
