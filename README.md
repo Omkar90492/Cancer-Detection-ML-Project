@@ -32,7 +32,8 @@ This repository includes:
 - **XGBoost** – Gradient boosting classifier  
 - **Imbalanced-learn (SMOTE)** – Class imbalance handling  
 - **Pickle** – Saving and loading trained models
-  ## 🚀 How to Run the Project
+
+- ## 🚀 How to Run the Project
 
 ---
 
