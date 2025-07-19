@@ -88,6 +88,8 @@ Save models as .pkl files
 
 ---
 
+## 📌 Results
+
 ## 📈 Accuracy Chart
 ![Accuracy](images/accuracy_comparison.png)
 
