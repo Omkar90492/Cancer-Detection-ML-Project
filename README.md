@@ -64,8 +64,13 @@ python cancer_detection.py
 ***Step 4: Output***
 
 The script will:
+
 Preprocess the dataset
+
 Handle class imbalance using SMOTE
+
 Train RandomForest, SVC, and XGBoost models
+
 Display classification reports and confusion matrices
+
 Save models as .pkl files
