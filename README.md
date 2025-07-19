@@ -41,34 +41,31 @@ This repository includes:
 
 Follow these steps to set up and run the project locally:
 
-Step 1: Clone the Repository
+***Step 1: Clone the Repository***
 
 git clone https://github.com/your-username/your-repo-name.git
+
 cd your-repo-name
 
 ---
 
-Step 2: Install the Required Dependencies
+***Step 2: Install the Required Dependencies***
 
 pip install -r requirements.txt
 
 ---
 
-Step 3: Run the Main Script
+***Step 3: Run the Main Script***
 
 python cancer_detection.py
 
 ---
 
-Step 4: Output
+***Step 4: Output***
+
 The script will:
-
 Preprocess the dataset
-
 Handle class imbalance using SMOTE
-
 Train RandomForest, SVC, and XGBoost models
-
 Display classification reports and confusion matrices
-
 Save models as .pkl files
