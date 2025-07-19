@@ -123,10 +123,13 @@ pip (Python package installer)
 ---
 
 ## ✅ 📌 Conclusion
----
+
 This project demonstrates how machine learning algorithms can be used to detect cancer using a dataset of diagnostic features. By comparing different models such as Random Forest, SVC, and XGBoost, we were able to evaluate and visualize their performance through accuracy scores and confusion matrices.
-## ✅ 📌 Key outcome
+
 ---
+
+## ✅ 📌 Key outcome
+
 Successfully trained and evaluated multiple ML models.
 Achieved strong prediction performance (refer to accuracy_comparison.png).
 Visualized model results using confusion matrices for deeper insights.
