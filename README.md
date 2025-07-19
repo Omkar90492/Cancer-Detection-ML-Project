@@ -114,7 +114,7 @@ Save models as .pkl files
 ---
 
 ## ✅ 📦 Prerequisites
----
+
 Before running this project, ensure you have the following installed:
 Python 3.7 or higher
 Jupyter Notebook or any Python IDE
