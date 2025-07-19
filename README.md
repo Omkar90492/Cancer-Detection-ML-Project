@@ -110,3 +110,14 @@ Save models as .pkl files
 - 📌 Run the notebook first if you want step-by-step exploration
 - 🧠 Modify hyperparameters in `cancer_detection.py` for better accuracy
 - 📈 Logs and results are saved in the `outputs/` folder
+
+---
+
+✅ Prerequisites
+Before running this project, ensure you have the following installed:
+
+Python 3.7 or higher
+
+Jupyter Notebook or any Python IDE
+
+pip (Python package installer)
