@@ -39,7 +39,7 @@ This repository includes:
 - **Matplotlib** – Basic data visualization  
 - **Seaborn** – Statistical plotting (optional)  
 - **Scikit-learn** – Machine learning models and evaluation  
-  - RandomForest, SVC, train-test split, metrics  
+- **RandomForest** - SVC, train-test split, metrics  
 - **XGBoost** – Gradient boosting classifier  
 - **Imbalanced-learn (SMOTE)** – Class imbalance handling  
 - **Pickle** – Saving and loading trained models
